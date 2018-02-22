@@ -1,0 +1,21 @@
+
+# Title
+An Agile Way As an SET at LINE ~プロダクトオーナーシップ編~
+
+
+# Description
+「プロダクトオーナー祭り2018 ～世界を創るのは俺たちだ！～」（2018-02-17・Sat）での発表資料です。
+https://postudy.doorkeeper.jp/events/64846
+
+ミッションを遂行する際の、アジャイルの知識・経験の具体的な活用方法を、特に「プロダクトオーナーシップ」の観点から、
+LINEのSET (Software Engineer in Test) 第1号としての経験談を通じて紹介します。
+
+あわせて、LINEにおけるSETの取り組みついても紹介します。
+
+
+# Tags
+set, testautomation, line, agile, XP, productowner, productmanagement, テスト自動化, アジャイル
+
+
+# Category
+Technology
