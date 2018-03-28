@@ -19,3 +19,31 @@ set, testautomation, line, agile, XP, productowner, productmanagement, テスト
 
 # Category
 Technology
+
+
+
+
+
+⭐️⭐️⭐️ English version ⭐️⭐️⭐️
+# Title
+An Agile Way As an SET at LINE -Product Ownership Edition-
+
+
+
+# Description
+This document describes
+how to promote missions with Agile practices and mindsets
+based on experiences of SET (Software Engineer in Test) in LINE Corporation.
+from Product Ownership's perspective.
+
+We also published Japanese version as follows:
+https://www.slideshare.net/linecorp/an-agile-way-as-an-set-at-line/linecorp/an-agile-way-as-an-set-at-line
+
+
+
+# Tags
+set, testautomation, line, agile, XP, productowner, productmanagement
+
+
+# Category
+Technology
