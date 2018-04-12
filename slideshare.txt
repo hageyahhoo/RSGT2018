@@ -1,5 +1,34 @@
 
 # Title
+心・技・態 -LINEにおける改善の真実-
+
+
+# Description
+「DevOpsDays Tokyo 2018」（2018-04-24/25）での発表資料です。
+https://www.devopsdays.org/events/2018-tokyo/welcome/
+
+LINEがDevOps・CI/CD・テスト自動化などの施策をなぜ推進しているのかを、
+心（組織文化）・技（技術）・態（ビジネス指向）の3つの観点から、
+具体的なプラクティス・事例と共に紹介します。
+
+特にLINE初のSET（Software Engineer in Test）の立場から、
+LINEがどのような取り組みを行っているのかを「見える化」します。
+
+皆様の「Kaizen」のヒントになれば幸いです。
+
+
+# Tags
+LINE, DevOps, SET, testautomation, agile, XP, テスト自動化, アジャイル
+
+
+# Category
+Technology
+
+
+
+
+
+# Title
 An Agile Way As an SET at LINE ~プロダクトオーナーシップ編~
 
 
